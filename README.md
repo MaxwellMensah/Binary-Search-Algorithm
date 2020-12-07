@@ -17,3 +17,5 @@ Start with the middle element:
 
 ## Code for Binary Search
 <img src="https://webrewrite.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-12.26.53-PM.png" width="650" height="500">
+
+Though its in java, but still uses the same process in other languages.
