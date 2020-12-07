@@ -16,4 +16,4 @@ Start with the middle element:
 3. If no match is found, then return -1.
 
 ## Code for Binary Search
-<img src="https://webrewrite.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-12.26.53-PM.png" width="650" height="400">
+<img src="https://webrewrite.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-12.26.53-PM.png.png" width="650" height="500">
