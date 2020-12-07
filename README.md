@@ -13,4 +13,7 @@ Start with the middle element:
     - If the target value is greater than the number in the middle index, then pick the elements to the right of the middle index, and start with Step 1.
     - If the target value is less than the number in the middle index, then pick the elements to the left of the middle index, and start with Step 1.
 2. When a match is found, return the index of the element matched.
-3. If no match is found, then return -1
+3. If no match is found, then return -1.
+
+## Code for Binary Search
+<img src="https://webrewrite.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-12.26.53-PM.png.png" width="650" height="400">
